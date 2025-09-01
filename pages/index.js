@@ -7,12 +7,4 @@ function Home() {
   );
 }
 
-function teste() {
-  console.log(teste);
-}
-
-function teste2() {
-  console.log("identação errada");
-}
-
 export default Home; //export padrão, fazendo com que um componete chama outro, formando o que tiver na nossa pagina
